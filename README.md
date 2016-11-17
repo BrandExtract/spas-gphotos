@@ -1,4 +1,4 @@
-# spas-youtube
+# spas-gphotos
 Google Photos API helpers for SPAS/BundleBee
 
 ## Installation
@@ -8,7 +8,7 @@ Google Photos API helpers for SPAS/BundleBee
 $ [sudo] npm install spas -g
 ```
 
-### Installing spas-youtube
+### Installing spas-gphotos
 ``` bash
 $ [sudo] npm install spas-gphotos
 ```
