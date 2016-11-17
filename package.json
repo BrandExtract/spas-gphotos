@@ -1,0 +1,34 @@
+{
+  "name": "spas-gphotos",
+  "description": "Google Photos API helpers for SPAS",
+  "version": "0.1.0",
+  "author": {
+    "name": "John Lafitte",
+    "email": "jlafitte@brandextract.com",
+    "url": "http://github.com/BrandExtract/"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/BrandExtract/spas-gphotos.git"
+  },
+  "keywords": [
+    "spas",
+    "little-spas",
+    "proxy",
+    "cache",
+    "api",
+    "gphotos",
+    "photos",
+    "google"
+  ],
+  "dependencies": {
+    "async": "2.x",
+    "spas-http": "0.1.x"
+  },
+  "main": "api.js",
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "readme": "# spas-gphotos\n\nGoogle Photos API helpers for SPAS\n\n## Installation\n\n### Installing spas\n``` bash\n$ [sudo] npm install spas\n```\n\n### Installing spas-gphotos\n``` bash\n$ [sudo] npm install spas-gphotos\n```\n\n"
+}
