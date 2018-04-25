@@ -14,5 +14,5 @@ $ [sudo] npm install spas-gphotos
 ```
 
 ## Documentation
-spas-gphotos documentation can be found in the github repository
-http://github.com/BrandExtract/spas-gphotos
+Usage should mostly be covered in the [spas documentation](https://github.com/dtex/spas).
+
