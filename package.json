@@ -1,7 +1,7 @@
 {
   "name": "spas-gphotos",
   "description": "Google Photos API helpers for SPAS",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "author": "John Lafitte <jlafitte@brandextract.com> (http://github.com/BrandExtract/)",
   "license": "MIT",
   "repository": {
