@@ -1,5 +1,5 @@
 # spas-gphotos
-Google Photos API helpers for SPAS/BundleBee
+Google Photos API helper for SPAS/BundleBee
 
 ## Installation
 
