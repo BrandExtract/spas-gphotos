@@ -19,7 +19,7 @@
     "google"
   ],
   "dependencies": {
-    "async": "2.x",
+    "async": "3.x",
     "spas-http": "0.1.x"
   },
   "main": "api.js",
